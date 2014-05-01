@@ -1,0 +1,14 @@
+Smurfs vs Zombies
+
+Zombies rise out of the ground and follow the Smurf player character.
+A max of 30 zombies spawn.
+The game ends if the Zombie hits the player.
+The player wins if all Zombies fall off the ledge.
+(You can also see a game win state by pressing p, for testing purposes).
+
+The player moves faster than the zombie, and move with WASD.
+They jump with the right mouse button, and when in the jump state, zombies can’t harm them.
+
+You can move the camera by holding down the left mouse button and moving the mouse.
+Lastly, you can zoom in and out the camera with the “i” and “o” buttons respectively.  
+
